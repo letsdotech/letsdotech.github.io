@@ -9,5 +9,5 @@ collections:
 
 ec_docs:
   collections:
-    ec:
+    docs:
       name: EC Docs
